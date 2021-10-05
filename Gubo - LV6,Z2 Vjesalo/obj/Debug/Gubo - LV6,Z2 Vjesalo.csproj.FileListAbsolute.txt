@@ -1,0 +1,9 @@
+C:\Users\Dominik\source\repos\Gubo - LV6,Z2 Vjesalo\Gubo - LV6,Z2 Vjesalo\bin\Debug\Gubo - LV6,Z2 Vjesalo.exe.config
+C:\Users\Dominik\source\repos\Gubo - LV6,Z2 Vjesalo\Gubo - LV6,Z2 Vjesalo\bin\Debug\Gubo - LV6,Z2 Vjesalo.exe
+C:\Users\Dominik\source\repos\Gubo - LV6,Z2 Vjesalo\Gubo - LV6,Z2 Vjesalo\bin\Debug\Gubo - LV6,Z2 Vjesalo.pdb
+C:\Users\Dominik\source\repos\Gubo - LV6,Z2 Vjesalo\Gubo - LV6,Z2 Vjesalo\obj\Debug\Gubo - LV6,Z2 Vjesalo.csprojAssemblyReference.cache
+C:\Users\Dominik\source\repos\Gubo - LV6,Z2 Vjesalo\Gubo - LV6,Z2 Vjesalo\obj\Debug\Gubo___LV6_Z2_Vjesalo.Form1.resources
+C:\Users\Dominik\source\repos\Gubo - LV6,Z2 Vjesalo\Gubo - LV6,Z2 Vjesalo\obj\Debug\Gubo___LV6_Z2_Vjesalo.Properties.Resources.resources
+C:\Users\Dominik\source\repos\Gubo - LV6,Z2 Vjesalo\Gubo - LV6,Z2 Vjesalo\obj\Debug\Gubo - LV6,Z2 Vjesalo.csproj.GenerateResource.cache
+C:\Users\Dominik\source\repos\Gubo - LV6,Z2 Vjesalo\Gubo - LV6,Z2 Vjesalo\obj\Debug\Gubo - LV6,Z2 Vjesalo.exe
+C:\Users\Dominik\source\repos\Gubo - LV6,Z2 Vjesalo\Gubo - LV6,Z2 Vjesalo\obj\Debug\Gubo - LV6,Z2 Vjesalo.pdb
